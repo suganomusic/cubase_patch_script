@@ -38,7 +38,8 @@ for Mac (MacOS 10.12.6 and Cubase 10)
 1. select Script and MIDI port.
 1. Done! :)
 
-## plofile
+---
+#### plofile
 name: Sugano  
 web: http://SuganoMusic.com  
 Twitter: https://twitter.com/suganomusic  
