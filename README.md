@@ -39,7 +39,7 @@ for Mac (MacOS 10.12.6 and Cubase 10)
 ---
 #### plofile
 name: Sugano  
-web: http://SuganoMusic.com  
+web: https://suganomusic.com  
 Twitter: https://twitter.com/suganomusic  
 
 web programer & composer.  
