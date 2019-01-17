@@ -23,10 +23,8 @@ synth preset scripts.
   - [ ] SR-JV80 Session
   - [ ] SR-JV80 Dance
   - [ ] SR-JV80 Bass & Drums
-  - [ ] SR-JV80 Dance
   - [ ] SRX Symphonique Strings
   - [ ] SRX Supreme Dance
-  - [ ] SRX Symphonique Strings
 
 ## Check
 Cubase Pro 10
