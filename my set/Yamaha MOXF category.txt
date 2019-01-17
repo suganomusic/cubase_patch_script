@@ -1458,354 +1458,351 @@
 [g1]Inspiration In A Flash
 [g2]Acoustic Piano
 [g3]Acoustic Piano
-[p4,1,63,9] S700 for XS
-[p4,7,63,9] PowerGrand
-[p4,8,63,9] Jazz Grand
-[p4,125,63,9] Do Dau Do
+[p4,0,63,9] S700 for XS
+[p4,6,63,9] PowerGrand
+[p4,7,63,9] Jazz Grand
+[p4,124,63,9] Do Dau Do
 [g3]Layer
-[p4,2,63,9] Ballad Stack S700
-[p4,3,63,9] S700 Piano Back
-[p4,4,63,9] S700 & Strings
-[p4,5,63,9] S700Piano&Ooh Choir
-[p4,6,63,9] S700&Ooh Choir&Pad
+[p4,1,63,9] Ballad Stack S700
+[p4,2,63,9] S700 Piano Back
+[p4,3,63,9] S700 & Strings
+[p4,4,63,9] S700Piano&Ooh Choir
+[p4,5,63,9] S700&Ooh Choir&Pad
 [g3]Modern
-[p4,81,63,10] Rock & Pop Piano CF3
+[p4,80,63,10] Rock & Pop Piano CF3
 [g2]Keyboard
 [g3]Electric Piano
-[p4,82,63,10] Vintage EP Sft AF1&2
-[p4,98,63,10] V.K. Rhodes Suitcase
-[p4,99,63,10] V.K. Wurlitzer 129
+[p4,81,63,10] Vintage EP Sft AF1&2
+[p4,97,63,10] V.K. Rhodes Suitcase
+[p4,98,63,10] V.K. Wurlitzer 129
 [g3]FM Piano
-[p4,83,63,10] DX Ballad Tines AF1
+[p4,82,63,10] DX Ballad Tines AF1
 [g3]Clavi
-[p4,100,63,10] V.K Clavinet D6
+[p4,99,63,10] V.K Clavinet D6
 [g3]Synth
-[p4,75,63,10] Lambada Accordion
+[p4,74,63,10] Lambada Accordion
 [g2]Organ
 [g3]Tone Wheel
-[p4,11,63,9] Amped Rotary
-[p4,12,63,9] Amped Bright (Vel)
-[p4,13,63,9] Amped Chorus/Rotary
-[p4,14,63,9] Rotary Bright
-[p4,15,63,9] Rotary Chorus
-[p4,16,63,9] Cool Dry
-[p4,17,63,9] CoolPercsn
-[p4,18,63,9] CoolRotary
-[p4,19,63,9] Cool Funk
-[p4,20,63,9] Cool Rock
-[p4,21,63,9] Cool Rock Rotor
-[p4,22,63,9] FullDraw/Vibr/Rotor
-[p4,1,63,10] The Clean AF1
-[p4,2,63,10] Whiter Shade AF1&2
-[p4,3,63,10] Big Tube AT
-[p4,4,63,10] CX3 Drive
-[p4,5,63,10] Stormy Monday
-[p4,6,63,10] First Three + One
-[p4,7,63,10] The Entertainer 1
-[p4,8,63,10] The Entertainer 2
-[p4,104,63,10] B.K. Leakage
-[p4,105,63,10] B.K. Jazz Slow
-[p4,106,63,10] B.K. Burn Marks
-[p4,107,63,10] B.K. Purple Smoke
+[p4,10,63,9] Amped Rotary
+[p4,11,63,9] Amped Bright (Vel)
+[p4,12,63,9] Amped Chorus/Rotary
+[p4,13,63,9] Rotary Bright
+[p4,14,63,9] Rotary Chorus
+[p4,15,63,9] Cool Dry
+[p4,16,63,9] CoolPercsn
+[p4,17,63,9] CoolRotary
+[p4,18,63,9] Cool Funk
+[p4,19,63,9] Cool Rock
+[p4,20,63,9] Cool Rock Rotor
+[p4,21,63,9] FullDraw/Vibr/Rotor
+[p4,0,63,10] The Clean AF1
+[p4,1,63,10] Whiter Shade AF1&2
+[p4,2,63,10] Big Tube AT
+[p4,3,63,10] CX3 Drive
+[p4,4,63,10] Stormy Monday
+[p4,5,63,10] First Three + One
+[p4,6,63,10] The Entertainer 1
+[p4,7,63,10] The Entertainer 2
+[p4,103,63,10] B.K. Leakage
+[p4,104,63,10] B.K. Jazz Slow
+[p4,105,63,10] B.K. Burn Marks
+[p4,106,63,10] B.K. Purple Smoke
 [g2]Guitar
 [g3]Electric Distortion
-[p4,56,63,10] CitrusJam
-[p4,88,63,10] RockLeadguitar1 AF1
-[p4,108,63,10] AX Slash & Burn
-[p4,109,63,10] AX Tweed
-[p4,110,63,10] AX Taylor Strum
+[p4,55,63,10] CitrusJam
+[p4,87,63,10] RockLeadguitar1 AF1
+[p4,107,63,10] AX Slash & Burn
+[p4,108,63,10] AX Tweed
+[p4,109,63,10] AX Taylor Strum
 [g3]---
-[p4,55,63,10] BeachCafe AF1
+[p4,54,63,10] BeachCafe AF1
 [g2]Bass
 [g3]Electric Bass
-[p4,111,63,10] PLS Warwick/SWR
+[p4,110,63,10] PLS Warwick/SWR
 [g3]Synth Bass
-[p4,35,63,10] Mudlicker AF1&2
-[p4,36,63,10] Snail Mail AF1&2
-[p4,37,63,10] Dirt Track AFoff
-[p4,112,63,10] PLS Owng Filter
-[p4,113,63,10] PLS Pad Bass
+[p4,34,63,10] Mudlicker AF1&2
+[p4,35,63,10] Snail Mail AF1&2
+[p4,36,63,10] Dirt Track AFoff
+[p4,111,63,10] PLS Owng Filter
+[p4,112,63,10] PLS Pad Bass
 [g2]Strings
 [g3]Solo
-[p4,125,63,10] O.S. Rosin
+[p4,124,63,10] O.S. Rosin
 [g3]Ensemble
-[p4,76,63,10] String Orchestra 1
-[p4,84,63,10] Mellow Nights
-[p4,85,63,10] PhaserStringensemble
-[p4,114,63,10] C.O.Tremulus
-[p4,115,63,10] C.O. Pitzicato
+[p4,75,63,10] String Orchestra 1
+[p4,83,63,10] Mellow Nights
+[p4,84,63,10] PhaserStringensemble
+[p4,113,63,10] C.O.Tremulus
+[p4,114,63,10] C.O. Pitzicato
 [g3]Synth
-[p4,15,63,10] Mini 18db
-[p4,19,63,10] String Pad ukm
-[p4,22,63,10] JP Lite Chorus
-[p4,101,63,10] V.K. Mellotron
-[g3]Arpeggio
+[p4,14,63,10] Mini 18db
+[p4,18,63,10] String Pad ukm
+[p4,21,63,10] JP Lite Chorus
+[p4,100,63,10] V.K. Mellotron
 [g2]Brass
 [g3]Solo
-[p4,25,63,9] Ballad Mute Trumpet
-[p4,26,63,9] Tb Sweet
-[p4,27,63,9] Tb Vibrato Soft
-[p4,28,63,9] Tb Vib Dynamic
-[p4,29,63,9] Tb Vib Bright
-[p4,30,63,9] Tb Vib Mellow
-[p4,31,63,9] Tp Ballad
-[p4,32,63,9] Tp Medium
-[p4,33,63,9] Tp Bright
-[p4,34,63,9] Tp Breathy
-[p4,35,63,9] TpJazzyVbrato
-[p4,36,63,9] TpDynoSolo
-[p4,37,63,9] TpPicoloVb
-[p4,38,63,9] TpDixieCup
-[p4,39,63,9] Tp Dixieland
-[p4,40,63,9] Tp Mellow
-[p4,41,63,9] TpMute Sweet
-[p4,42,63,9] TpMute Soft
-[p4,43,63,9] FlgSoftVbrto
-[p4,44,63,9] FlgMedVibrato
-[p4,45,63,9] FlgBreathy
-[p4,46,63,9] FlgDynamic
-[p4,69,63,9] Trombone Sweet AF1
-[p4,70,63,9] Trumpet Sweet AF1
-[p4,92,63,9] Tp Ballad
-[p4,77,63,10] Trumpet Tanz
-[p4,116,63,10] C.O.ClassicalEns
-[p4,117,63,10] C.O.ClassicalTrumpet
-[p4,122,63,10] BRS Picolo Trumpet
-[p4,123,63,10] BRS 1st Trumpet
+[p4,24,63,9] Ballad Mute Trumpet
+[p4,25,63,9] Tb Sweet
+[p4,26,63,9] Tb Vibrato Soft
+[p4,27,63,9] Tb Vib Dynamic
+[p4,28,63,9] Tb Vib Bright
+[p4,29,63,9] Tb Vib Mellow
+[p4,30,63,9] Tp Ballad
+[p4,31,63,9] Tp Medium
+[p4,32,63,9] Tp Bright
+[p4,33,63,9] Tp Breathy
+[p4,34,63,9] TpJazzyVbrato
+[p4,35,63,9] TpDynoSolo
+[p4,36,63,9] TpPicoloVb
+[p4,37,63,9] TpDixieCup
+[p4,38,63,9] Tp Dixieland
+[p4,39,63,9] Tp Mellow
+[p4,40,63,9] TpMute Sweet
+[p4,41,63,9] TpMute Soft
+[p4,42,63,9] FlgSoftVbrto
+[p4,43,63,9] FlgMedVibrato
+[p4,44,63,9] FlgBreathy
+[p4,45,63,9] FlgDynamic
+[p4,68,63,9] Trombone Sweet AF1
+[p4,69,63,9] Trumpet Sweet AF1
+[p4,91,63,9] Tp Ballad
+[p4,76,63,10] Trumpet Tanz
+[p4,115,63,10] C.O.ClassicalEns
+[p4,116,63,10] C.O.ClassicalTrumpet
+[p4,121,63,10] BRS Picolo Trumpet
+[p4,122,63,10] BRS 1st Trumpet
 [g3]Brass Ensemble
-[p4,84,63,9] BrsNatural
-[p4,85,63,9] BrsBigBand
-[p4,86,63,9] BrsSwell1
-[p4,87,63,9] BrsSwell2
-[p4,88,63,9] Brs 2Tromb
-[p4,89,63,9] Brs2FluglA
-[p4,90,63,9] Brs2FluglB
-[p4,91,63,9] Brs3Flugel
-[p4,95,63,9] Live Brass
-[p4,96,63,9] Fanbrass
-[p4,97,63,9] Stabby
-[p4,98,63,9] Section 8
-[p4,99,63,9] Brass Fall
-[p4,100,63,9] Brs+Fall A
-[p4,101,63,9] Brs+Fall B
-[p4,102,63,9] HiVel Fall
-[p4,105,63,9] Real Section 2
-[p4,86,63,10] Live Brass AF1&2
-[p4,124,63,10] DCP Brass Fall
+[p4,83,63,9] BrsNatural
+[p4,84,63,9] BrsBigBand
+[p4,85,63,9] BrsSwell1
+[p4,86,63,9] BrsSwell2
+[p4,87,63,9] Brs 2Tromb
+[p4,88,63,9] Brs2FluglA
+[p4,89,63,9] Brs2FluglB
+[p4,90,63,9] Brs3Flugel
+[p4,94,63,9] Live Brass
+[p4,95,63,9] Fanbrass
+[p4,96,63,9] Stabby
+[p4,97,63,9] Section 8
+[p4,98,63,9] Brass Fall
+[p4,99,63,9] Brs+Fall A
+[p4,100,63,9] Brs+Fall B
+[p4,101,63,9] HiVel Fall
+[p4,104,63,9] Real Section 2
+[p4,85,63,10] Live Brass AF1&2
+[p4,123,63,10] DCP Brass Fall
 [g3]Synth
-[p4,17,63,10] Fanfare ukm
-[p4,18,63,10] Synth Orchestra ukm
-[p4,97,63,10] Dance Brass
-[p4,103,63,10] V.K. Jump
+[p4,16,63,10] Fanfare ukm
+[p4,17,63,10] Synth Orchestra ukm
+[p4,96,63,10] Dance Brass
+[p4,102,63,10] V.K. Jump
 [g2]Sax / Woodwind
 [g3]Saxophone
-[p4,23,63,9] Tenor Max Express
-[p4,24,63,9] Alto Vib Velo
-[p4,47,63,9] Bari Sweet
-[p4,48,63,9] Ts Sweet
-[p4,49,63,9] Ts Smokey
-[p4,50,63,9] Ts Medium
-[p4,51,63,9] Ts Rock
-[p4,52,63,9] Ts Sforzat
-[p4,53,63,9] TsDynamic
-[p4,54,63,9] TsDynaRock
-[p4,55,63,9] AsVibSoft
-[p4,56,63,9] AsVbMedium
-[p4,57,63,9] As Sforzat
-[p4,58,63,9] AsDynVibA
-[p4,59,63,9] AsDynVibB
-[p4,60,63,9] Sweet Soprano
-[p4,61,63,9] SopranoSaxVbMedium
-[p4,62,63,9] Cl Sweet
-[p4,63,63,9] ObSlowVibF
-[p4,64,63,9] ObSlowVbMF
-[p4,65,63,9] ObDynamic
-[p4,66,63,9] Sweet Harp
-[p4,71,63,9] Real Mute Section 4
-[p4,72,63,9] Real Mute Section 2
-[p4,73,63,9] RsecTnrSft
-[p4,74,63,9] RSecSforzt
-[p4,75,63,9] RSec Soft
-[p4,76,63,9] RSec Hard
-[p4,77,63,9] RSecDynamc
-[p4,78,63,9] RSec4Cousn
-[p4,79,63,9] RSec4Uncls
-[p4,80,63,9] RSec2Alto1
-[p4,81,63,9] RSec2Alto2
-[p4,82,63,9] RSec2Oboes
-[p4,83,63,9] RSecClarnt
-[p4,93,63,9] Soprano Legato Velo
-[p4,94,63,9] RealSection Hard
-[p4,103,63,9] Brass Orch B1
-[p4,104,63,9] Sax Section 1
-[p4,106,63,9] Real Section 3
-[p4,107,63,9] Brass Quartet
-[p4,108,63,9] Real Section 1/Oct
-[p4,78,63,10] Sweet Alto
+[p4,22,63,9] Tenor Max Express
+[p4,23,63,9] Alto Vib Velo
+[p4,46,63,9] Bari Sweet
+[p4,47,63,9] Ts Sweet
+[p4,48,63,9] Ts Smokey
+[p4,49,63,9] Ts Medium
+[p4,50,63,9] Ts Rock
+[p4,51,63,9] Ts Sforzat
+[p4,52,63,9] TsDynamic
+[p4,53,63,9] TsDynaRock
+[p4,54,63,9] AsVibSoft
+[p4,55,63,9] AsVbMedium
+[p4,56,63,9] As Sforzat
+[p4,57,63,9] AsDynVibA
+[p4,58,63,9] AsDynVibB
+[p4,59,63,9] Sweet Soprano
+[p4,60,63,9] SopranoSaxVbMedium
+[p4,61,63,9] Cl Sweet
+[p4,62,63,9] ObSlowVibF
+[p4,63,63,9] ObSlowVbMF
+[p4,64,63,9] ObDynamic
+[p4,65,63,9] Sweet Harp
+[p4,70,63,9] Real Mute Section 4
+[p4,71,63,9] Real Mute Section 2
+[p4,72,63,9] RsecTnrSft
+[p4,73,63,9] RSecSforzt
+[p4,74,63,9] RSec Soft
+[p4,75,63,9] RSec Hard
+[p4,76,63,9] RSecDynamc
+[p4,77,63,9] RSec4Cousn
+[p4,78,63,9] RSec4Uncls
+[p4,79,63,9] RSec2Alto1
+[p4,80,63,9] RSec2Alto2
+[p4,81,63,9] RSec2Oboes
+[p4,82,63,9] RSecClarnt
+[p4,92,63,9] Soprano Legato Velo
+[p4,93,63,9] RealSection Hard
+[p4,102,63,9] Brass Orch B1
+[p4,103,63,9] Sax Section 1
+[p4,105,63,9] Real Section 3
+[p4,106,63,9] Brass Quartet
+[p4,107,63,9] Real Section 1/Oct
+[p4,77,63,10] Sweet Alto
 [g3]Flute
-[p4,67,63,9] Sweet Pan
-[g3]Woodwind
+[p4,66,63,9] Sweet Pan
 [g3]Reed / Pipe
-[p4,68,63,9] Sweet Bluz Distort
+[p4,67,63,9] Sweet Bluz Distort
 [g2]Synth Lead
 [g3]Analog
-[p4,9,63,10] Syn Heaven
-[p4,12,63,10] Deep Wah
-[p4,21,63,10] Final Pitch AF1
-[p4,87,63,10] Creamy Drive AF1
-[p4,102,63,10] V.K. Mini 3-Osc 5th
+[p4,8,63,10] Syn Heaven
+[p4,11,63,10] Deep Wah
+[p4,20,63,10] Final Pitch AF1
+[p4,86,63,10] Creamy Drive AF1
+[p4,101,63,10] V.K. Mini 3-Osc 5th
 [g3]Digital
-[p4,10,63,10] Mini Freak AF1&2
-[p4,79,63,10] Wild PWM Lead AF1&2
+[p4,9,63,10] Mini Freak AF1&2
+[p4,78,63,10] Wild PWM Lead AF1&2
 [g3]Dance
-[p4,34,63,10] Stereo Growl
+[p4,33,63,10] Stereo Growl
 [g3]---
-[p4,11,63,10] Cameldrive
-[p4,13,63,10] Session 4U
-[p4,14,63,10] Miami Feel
-[p4,23,63,10] Synthpop JP8 AF1&2
-[p4,31,63,10] BlueFinger
-[p4,33,63,10] Fifth Square Again
-[p4,38,63,10] Be Cool! AF1&2
+[p4,10,63,10] Cameldrive
+[p4,12,63,10] Session 4U
+[p4,13,63,10] Miami Feel
+[p4,22,63,10] Synthpop JP8 AF1&2
+[p4,30,63,10] BlueFinger
+[p4,32,63,10] Fifth Square Again
+[p4,37,63,10] Be Cool! AF1&2
 [g2]Synth Pad / Choir
 [g3]Warm
-[p4,89,63,10] Warmish AF1&2
-[p4,91,63,10] X-Phase AF1&2
-[p4,94,63,10] Movie Pad
-[p4,96,63,10] Ambient 1
+[p4,88,63,10] Warmish AF1&2
+[p4,90,63,10] X-Phase AF1&2
+[p4,93,63,10] Movie Pad
+[p4,95,63,10] Ambient 1
 [g3]Bright
-[p4,70,63,10] X-Land
-[p4,71,63,10] VoodooVox AF1&2
-[p4,90,63,10] Noble Man AF1&2
-[p4,93,63,10] Story 4 U
-[p4,95,63,10] HPF Sweep 1
-[p4,127,63,10] AIR Oxygen Pad
+[p4,69,63,10] X-Land
+[p4,70,63,10] VoodooVox AF1&2
+[p4,89,63,10] Noble Man AF1&2
+[p4,92,63,10] Story 4 U
+[p4,94,63,10] HPF Sweep 1
+[p4,126,63,10] AIR Oxygen Pad
 [g3]Choir
-[p4,109,63,9] Live Scat
-[p4,110,63,9] Natural Aah Choir
-[p4,111,63,9] Stereo Doo Choir
-[p4,112,63,9] StereoAahs
-[p4,113,63,9] Mmh Choir
-[p4,114,63,9] GospelVelo
-[p4,115,63,9] Hum Choir
-[p4,116,63,9] Live Dooh
-[p4,117,63,9] Live Baah
-[p4,118,63,9] Live Daoo
-[p4,119,63,9] Dooh Choir
-[p4,120,63,9] Doom Choir
-[p4,121,63,9] Bah Choir
-[p4,122,63,9] Duba Choir
-[p4,123,63,9] Say Aah
-[p4,126,63,9] Phaze Vox
+[p4,108,63,9] Live Scat
+[p4,109,63,9] Natural Aah Choir
+[p4,110,63,9] Stereo Doo Choir
+[p4,111,63,9] StereoAahs
+[p4,112,63,9] Mmh Choir
+[p4,113,63,9] GospelVelo
+[p4,114,63,9] Hum Choir
+[p4,115,63,9] Live Dooh
+[p4,116,63,9] Live Baah
+[p4,117,63,9] Live Daoo
+[p4,118,63,9] Dooh Choir
+[p4,119,63,9] Doom Choir
+[p4,120,63,9] Bah Choir
+[p4,121,63,9] Duba Choir
+[p4,122,63,9] Say Aah
+[p4,125,63,9] Phaze Vox
 [g3]---
-[p4,25,63,10] UniSixPad AF1&2
-[p4,28,63,10] XtaPump 1
-[p4,39,63,10] Dance Power Pad
+[p4,24,63,10] UniSixPad AF1&2
+[p4,27,63,10] XtaPump 1
+[p4,38,63,10] Dance Power Pad
 [g2]Synth Comping
 [g3]Analog
-[p4,92,63,10] Polystack
-[g3]Arpeggio
+[p4,91,63,10] Polystack
 [g3]---
-[p4,20,63,10] Warm Comp AF1
-[p4,26,63,10] Dirty Comp AF1
-[p4,27,63,10] PolyDncLPF
-[p4,30,63,10] Saw8 2Oct
-[p4,40,63,10] Dance Power Dist
+[p4,19,63,10] Warm Comp AF1
+[p4,25,63,10] Dirty Comp AF1
+[p4,26,63,10] PolyDncLPF
+[p4,29,63,10] Saw8 2Oct
+[p4,39,63,10] Dance Power Dist
 [g2]Chromatic Percussion
 [g3]Mallet Percussion
-[p4,9,63,9] Marimba 3x !
-[p4,10,63,9] Vibe 3x !
-[p4,118,63,10] C.O. Celesta
+[p4,8,63,9] Marimba 3x !
+[p4,9,63,9] Vibe 3x !
+[p4,117,63,10] C.O. Celesta
 [g3]Bell
-[p4,127,63,9] Musicbox
-[p4,128,63,9] Musicbox2
-[p4,73,63,10] Stringbells 1 AF1&2
-[p4,74,63,10] Pop Bells 1 AF1&2
-[p4,126,63,10] AIR D50 Fantasia
+[p4,126,63,9] Musicbox
+[p4,127,63,9] Musicbox2
+[p4,72,63,10] Stringbells 1 AF1&2
+[p4,73,63,10] Pop Bells 1 AF1&2
+[p4,125,63,10] AIR D50 Fantasia
 [g2]Drum / Percussion
 [g3]Drums
-[p4,1,63,40] Maple Custom Kit
-[p4,2,63,40] Oak Custom Kit
-[p4,3,63,40] Nu Jazzy Kit
-[p4,4,63,40] Illest Hip Hop Kit
-[p4,6,63,40] Nu Orchestra Kit
-[p4,9,63,40] Nu Hip Hop Kit 2
-[p4,12,63,40] Hip Hop Kit 3
-[p4,13,63,40] Hip Hop Kit 4
-[p4,14,63,40] Hip Stick Kit 1
-[p4,15,63,40] Hip Stick Kit 2
-[p4,16,63,40] R&B Kit 1
-[p4,17,63,40] Jazz Maple Acoustic
-[p4,18,63,40] VintageBirchAcoustic
-[p4,19,63,40] Oak X Acoustic
-[p4,20,63,40] Rock Beech Acoustic
-[p4,21,63,40] Classic Dance
-[p4,22,63,40] Classic RX
-[p4,23,63,40] Drum`n`Bass 170bpm
-[p4,24,63,40] Hip Hop 90bpm
-[p4,25,63,40] House 128bpm
-[p4,26,63,40] Analog T8 Kit
-[p4,27,63,40] Tekno Kit
-[p4,28,63,40] House Kit 1
-[p4,29,63,40] House Kit 2
-[p4,30,63,40] House Compressed Kit
-[p4,31,63,40] Big Kit
-[p4,32,63,40] Break Kit
+[p4,0,63,40] Maple Custom Kit
+[p4,1,63,40] Oak Custom Kit
+[p4,2,63,40] Nu Jazzy Kit
+[p4,3,63,40] Illest Hip Hop Kit
+[p4,5,63,40] Nu Orchestra Kit
+[p4,8,63,40] Nu Hip Hop Kit 2
+[p4,11,63,40] Hip Hop Kit 3
+[p4,12,63,40] Hip Hop Kit 4
+[p4,13,63,40] Hip Stick Kit 1
+[p4,14,63,40] Hip Stick Kit 2
+[p4,15,63,40] R&B Kit 1
+[p4,16,63,40] Jazz Maple Acoustic
+[p4,17,63,40] VintageBirchAcoustic
+[p4,18,63,40] Oak X Acoustic
+[p4,19,63,40] Rock Beech Acoustic
+[p4,20,63,40] Classic Dance
+[p4,21,63,40] Classic RX
+[p4,22,63,40] Drum`n`Bass 170bpm
+[p4,23,63,40] Hip Hop 90bpm
+[p4,24,63,40] House 128bpm
+[p4,25,63,40] Analog T8 Kit
+[p4,26,63,40] Tekno Kit
+[p4,27,63,40] House Kit 1
+[p4,28,63,40] House Kit 2
+[p4,29,63,40] House Compressed Kit
+[p4,30,63,40] Big Kit
+[p4,31,63,40] Break Kit
 [g3]Percussion
-[p4,119,63,10] C.O.GranCassa/Cymb!!
-[p4,120,63,10] C.O.CymRoll/Crash
-[p4,5,63,40] PercussionMaster Kit
-[p4,7,63,40] Japan Kit
-[p4,8,63,40] Turkish Kit
-[p4,10,63,40] Oriental Drum Set 1
-[p4,11,63,40] Oriental Drum Set 2
+[p4,118,63,10] C.O.GranCassa/Cymb!!
+[p4,119,63,10] C.O.CymRoll/Crash
+[p4,4,63,40] PercussionMaster Kit
+[p4,6,63,40] Japan Kit
+[p4,7,63,40] Turkish Kit
+[p4,9,63,40] Oriental Drum Set 1
+[p4,10,63,40] Oriental Drum Set 2
 [g3]Arpeggio
-[p4,128,63,10] M.S.2 Da Hood Boyz
+[p4,127,63,10] M.S.2 Da Hood Boyz
 [g2]Sound Effect
 [g3]Moving
-[p4,32,63,10] NoisePump1
-[p4,47,63,10] Monks Ritual
-[p4,48,63,10] Shattered Beast
-[p4,67,63,10] Venusclock AF1&2
+[p4,31,63,10] NoisePump1
+[p4,46,63,10] Monks Ritual
+[p4,47,63,10] Shattered Beast
+[p4,66,63,10] Venusclock AF1&2
 [g3]Ambient
-[p4,68,63,10] WiredOne
+[p4,67,63,10] WiredOne
 [g3]Sci-Fi
-[p4,72,63,10] FallnSwarm
+[p4,71,63,10] FallnSwarm
 [g3]---
-[p4,43,63,10] Granular Chimes
+[p4,42,63,10] Granular Chimes
 [g2]Musical Effect
 [g3]Moving
-[p4,124,63,9] Vocal Dreamscape
-[p4,41,63,10] Emotional Affair
-[p4,42,63,10] Surreal Nature
-[p4,45,63,10] Giant Plucked Cables
-[p4,53,63,10] Volcan AF1&2
-[p4,58,63,10] Family Secret
-[p4,59,63,10] Skybulb
-[p4,61,63,10] Start Now!
-[p4,62,63,10] Silver Spoon
-[p4,63,63,10] Alexandra
-[p4,65,63,10] SinginRain AF1&2
-[p4,69,63,10] Pitchomat AF1&2
+[p4,123,63,9] Vocal Dreamscape
+[p4,40,63,10] Emotional Affair
+[p4,41,63,10] Surreal Nature
+[p4,44,63,10] Giant Plucked Cables
+[p4,52,63,10] Volcan AF1&2
+[p4,57,63,10] Family Secret
+[p4,58,63,10] Skybulb
+[p4,60,63,10] Start Now!
+[p4,61,63,10] Silver Spoon
+[p4,62,63,10] Alexandra
+[p4,64,63,10] SinginRain AF1&2
+[p4,68,63,10] Pitchomat AF1&2
 [g3]Ambient
-[p4,57,63,10] Lazy 3D Grand
-[p4,64,63,10] Digital Shadows
-[p4,66,63,10] Ambiphone AF1&2
+[p4,56,63,10] Lazy 3D Grand
+[p4,63,63,10] Digital Shadows
+[p4,65,63,10] Ambiphone AF1&2
 [g3]Sweep
-[p4,24,63,10] Panning Sweeper
-[p4,44,63,10] Spectriality
+[p4,23,63,10] Panning Sweeper
+[p4,43,63,10] Spectriality
 [g3]Hit
-[p4,121,63,10] C.O. Orchestra Hit
+[p4,120,63,10] C.O. Orchestra Hit
 [g3]Arpeggio
-[p4,16,63,10] Analog Arp 1
-[p4,50,63,10] Cinnamon AF1&2
-[p4,51,63,10] SeaLine AF1&2
-[p4,52,63,10] Plasma Air AF1&2
-[p4,54,63,10] 4 Angels AF1&2
-[p4,80,63,10] Pop Chords 1
+[p4,15,63,10] Analog Arp 1
+[p4,49,63,10] Cinnamon AF1&2
+[p4,50,63,10] SeaLine AF1&2
+[p4,51,63,10] Plasma Air AF1&2
+[p4,53,63,10] 4 Angels AF1&2
+[p4,79,63,10] Pop Chords 1
 [g3]---
-[p4,29,63,10] Elias Af1&2
-[p4,46,63,10] Inside The Cathedral
-[p4,49,63,10] Play4Sofa AF1&2
-[p4,60,63,10] Excited Chill
+[p4,28,63,10] Elias Af1&2
+[p4,45,63,10] Inside The Cathedral
+[p4,48,63,10] Play4Sofa AF1&2
+[p4,59,63,10] Excited Chill
 [end]
