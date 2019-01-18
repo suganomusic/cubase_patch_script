@@ -1455,6 +1455,7 @@
 [p2,127,0,0]Gunshot
 [g1] GM DRUM
 [p2,0,127,0]Stereo GM Kit
+
 [g1]Inspiration In A Flash
 [g2]Acoustic Piano
 [g3]Acoustic Piano
@@ -1805,4 +1806,54 @@
 [p4,45,63,10] Inside The Cathedral
 [p4,48,63,10] Play4Sofa AF1&2
 [p4,59,63,10] Excited Chill
+
+[g1]EDM Expansion
+[g2]Bass
+[g3]Synth Bass
+[p4,16,63,11] Uplifting Bass YK
+[p4,17,63,11] Uplifting Bass2 YK
+[p4,18,63,11] Uplifting Bass3 YK
+[p4,19,63,11] Punch!! YK
+[p4,20,63,11] DUBSTEP;) YK
+[p4,21,63,11] MOSSIVE YK
+[g2]Synth Lead
+[g3]Analog
+[p4,10,63,11] Analog Pluck YK
+[g3] Digital
+[p4,6,63,11] Blue SQR YK
+[p4,15,63,11] EDM SYNC YK
+[p4,22,63,11] RAZOR YK
+[g3] Dance
+[p4,1,63,11] Feeling Trance YK
+[p4,2,63,11] EDM-LD YK
+[p4,3,63,11] Noizy Dream YK
+[p4,5,63,11] Uplifting-LD YK
+[p4,7,63,11] Pumpin' YK
+[p4,8,63,11] euro pluck YK
+[p4,9,63,11] Electro City YK
+[g2] Synth Pad / Choir
+[g3]Warm
+[p4,26,63,11] Venus YK
+[p4,28,63,11] Space Texture YK
+[p4,31,63,11] Analog Memories YK
+[g3]Bright
+[p4,29,63,11] Indian Summer YK
+[p4,30,63,11] Detune-PD YK
+[g3]Choir
+[p4,27,63,11] Rainbow Choir YK
+[g2]Synth Comping
+[g3] Hook
+[p4,4,63,11] Classic Saw YK
+[p4,14,63,11] Damper Dream YK
+[g3]Arpeggio
+[p4,11,63,11] Future YK
+[p4,12,63,11] Sky High YK
+[p4,13,63,11] Dark Seq YK
+[g2]Sound Effect
+[g3]Moving
+[p4,0,63,11] Timemachine YK
+[g3]Sci-Fi
+[p4,23,63,11] D.P.C.M. YK
+[p4,24,63,11] Replicant#14 YK
+[p4,25,63,11] CYBER CONTROL YK
 [end]
