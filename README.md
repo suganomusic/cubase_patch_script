@@ -13,7 +13,7 @@ synth preset scripts.
 * Yamaha Moxf
   - [x] preset
   - [x] Inspiration In A Flash
-  - [ ] EDM Expansion
+  - [x] EDM Expansion
   - [ ] CP1 Piano
 
 
