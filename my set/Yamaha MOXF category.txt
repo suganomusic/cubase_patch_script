@@ -1856,4 +1856,22 @@
 [p4,23,63,11] D.P.C.M. YK
 [p4,24,63,11] Replicant#14 YK
 [p4,25,63,11] CYBER CONTROL YK
+
+[g1] CP1 Piano
+[p2,32,63,11] CF Grand
+[p2,33,63,11] CF Light
+[p2,34,63,11] CF Rock
+[p2,35,63,11] CF Dark
+[p2,36,63,11] CF&S6 Layer
+[p2,37,63,11] CF Lyrical
+[p2,38,63,11] CF Comp
+[p2,39,63,11] CF Ragtime
+[p2,40,63,11] CF Squashed
+[p2,41,63,11] CF Ballad Key
+[p2,42,63,11] CF 80s Layer
+[p2,43,63,11] CF Back
+[p2,44,63,11] CF & Strings
+[p2,45,63,11] CF & Choir
+[p2,46,63,11] CF Unison
+[p2,47,63,11] Old Century
 [end]
