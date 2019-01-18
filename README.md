@@ -14,7 +14,7 @@ synth preset scripts.
   - [x] preset
   - [x] Inspiration In A Flash
   - [x] EDM Expansion
-  - [ ] CP1 Piano
+  - [x] CP1 Piano
 
 
 * Roland XV-5080
