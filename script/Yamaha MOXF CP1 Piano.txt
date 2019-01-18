@@ -1,0 +1,28 @@
+[cubase parse file]
+[parser version 0001]
+[comment]  Created by Sugano
+[device manufacturer]  Sugano
+[device name]  Yamaha MOXF CP1 Piano
+[script name]  Yamaha MOXF CP1 Piano
+[script version]  1.00
+[define patchnames]
+[mode]  MOXF VOICE / SONG MODE
+
+[g1] CP1 Piano
+[p2,0,63,9] CF Grand
+[p2,1,63,9] CF Light
+[p2,2,63,9] CF Rock
+[p2,3,63,9] CF Dark
+[p2,4,63,9] CF&S6 Layer
+[p2,5,63,9] CF Lyrical
+[p2,6,63,9] CF Comp
+[p2,7,63,9] CF Ragtime
+[p2,8,63,9] CF Squashed
+[p2,9,63,9] CF Ballad Key
+[p2,10,63,9] CF 80s Layer
+[p2,11,63,9] CF Back
+[p2,12,63,9] CF & Strings
+[p2,13,63,9] CF & Choir
+[p2,14,63,9] CF Unison
+[p2,15,63,9] Old Century
+[end]
