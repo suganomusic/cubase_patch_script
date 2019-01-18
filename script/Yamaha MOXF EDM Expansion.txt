@@ -1,0 +1,59 @@
+[cubase parse file]
+[parser version 0001]
+[comment]  Created by Sugano
+[device manufacturer]  Sugano
+[device name]  Yamaha MOXF EDM Expansion (category)
+[script name]  Yamaha MOXF EDM Expansion (category)
+[script version]  1.00
+[define patchnames]
+[mode]  MOXF VOICE / SONG MODE
+
+[g1] Bass
+[g2] Synth Bass
+[p3,16,63,9] Uplifting Bass YK
+[p3,17,63,9] Uplifting Bass2 YK
+[p3,18,63,9] Uplifting Bass3 YK
+[p3,19,63,9] Punch!! YK
+[p3,20,63,9] DUBSTEP;) YK
+[p3,21,63,9] MOSSIVE YK
+[g1] Synth Lead
+[g2] Analog
+[p3,10,63,9] Analog Pluck YK
+[g2] Digital
+[p3,6,63,9] Blue SQR YK
+[p3,15,63,9] EDM SYNC YK
+[p3,22,63,9] RAZOR YK
+[g2] Dance
+[p3,1,63,9] Feeling Trance YK
+[p3,2,63,9] EDM-LD YK
+[p3,3,63,9] Noizy Dream YK
+[p3,5,63,9] Uplifting-LD YK
+[p3,7,63,9] Pumpin' YK
+[p3,8,63,9] euro pluck YK
+[p3,9,63,9] Electro City YK
+[g1] Synth Pad / Choir
+[g2] Warm
+[p3,26,63,9] Venus YK
+[p3,28,63,9] Space Texture YK
+[p3,31,63,9] Analog Memories YK
+[g2] Bright
+[p3,29,63,9] Indian Summer YK
+[p3,30,63,9] Detune-PD YK
+[g2] Choir
+[p3,27,63,9] Rainbow Choir YK
+[g1] Synth Comping
+[g2] Hook
+[p3,4,63,9] Classic Saw YK
+[p3,14,63,9] Damper Dream YK
+[g2] Arpeggio
+[p3,11,63,9] Future YK
+[p3,12,63,9] Sky High YK
+[p3,13,63,9] Dark Seq YK
+[g1] Sound Effect
+[g2] Moving
+[p3,0,63,9] Timemachine YK
+[g2] Sci-Fi
+[p3,23,63,9] D.P.C.M. YK
+[p3,24,63,9] Replicant#14 YK
+[p3,25,63,9] CYBER CONTROL YK
+[end]
